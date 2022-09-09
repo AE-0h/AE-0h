@@ -5,8 +5,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/AE-0h/count.svg)
 
-
-| [OFFSwap](https://github.com/Arch0125/coindcxnext) | 1st Runner up CoinDCX Ventures at Warpspeed | OffChain Transaction signing for DEXes on different Chains |
 - 🥚 I’m currently learning  zkSnarks/Cairo
 
 - 💬 Ask me about **DEFI**
