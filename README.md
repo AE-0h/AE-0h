@@ -20,7 +20,7 @@
   <a href="https://twitter.com/Byzan_Solutions" target="blank"><img align="center" src="https://img.shields.io/badge/Byzan_Solutions-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="AE-0h"  /></a>
 </p>
 
-<h3 align="center" justify-content="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
   
   ![Rust](https://img.shields.io/badge/🦀_Rust-%2300599C.svg?style=for-the-badge&logo=rust%2B%2B&logoColor=white)
