@@ -20,7 +20,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
   
-  ![Rust](https://img.shields.io/badge/Rust-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-%2300599C.svg?style=for-the-badge&logo=rust%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
