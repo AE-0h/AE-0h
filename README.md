@@ -1,6 +1,6 @@
 
 <h1 align="center">hello 👋,  I am AE-0h</h1>
-<h2 align = "center"> Fullstack web3 Developer <h2/>
+<h2 align = "center"> Blockchain Developer <h2/>
 <h3>Profile Visits</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/AE-0h/count.svg)
