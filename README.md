@@ -27,9 +27,7 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![ChakraUI](https://img.shields.io/badge/ChakraUI-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![NextJs](https://img.shields.io/badge/NextJs-%2320232a.svg?style=for-the-badge&logo=NextJs&logoColor=%2361DAFB)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
