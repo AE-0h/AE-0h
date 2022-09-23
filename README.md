@@ -4,15 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<h3>Profile Visits</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/AE-0h/count.svg)
-
-- 🥚 I’m currently learning  zkSnarks/Cairo
-
-- 💬 Ask me about **DEFI**
-
-- 📫 How to reach me **dontlisten33@gmail.com**
 
 <h3 align="center"><img width="10%" height="auto" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif"/></h3>
 <h3 align="center" > Connect with me: </h3>
