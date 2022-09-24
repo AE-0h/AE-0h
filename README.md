@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-
-<h3 align="center"><img width="10%" height="auto" src="https://thumbs.gfycat.com/AjarJaggedClumber-mobile.mp4"/></h3>
 <h3 align="center" > Connect with me: </h3>
 <p align="center">
   <a href="https://twitter.com/Byzan_Solutions" target="blank"><img align="center" src="https://img.shields.io/badge/Byzan_Solutions-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="AE-0h"  /></a>
@@ -20,6 +18,7 @@
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Typescript](https://img.shields.io/badge/TypeScript-4DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
