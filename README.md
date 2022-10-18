@@ -21,9 +21,9 @@
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 <!--![](./profile-3d-contrib/profile-night-view.svg)-->
-<div align="center">
+
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AE-0h&theme=midnight-purple&layout=compact&hide=css,html) | [![Ae-0h GitHub stats](https://github-readme-stats.vercel.app/api?username=AE-0h&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/AE-0h)|
-</div>  
+
 
