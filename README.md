@@ -17,6 +17,7 @@
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
   ![Rust](https://img.shields.io/badge/🦀_Rust-%2300599C.svg?style=for-the-badge&logo=rust%2B%2B&logoColor=white)
+  ![NextJS] (https://img.shields.io/badge/NextJs-6DA55F?style=for-the-badge&logo=NextJs&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
