@@ -26,7 +26,6 @@
 
 |🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AE-0h&theme=midnight-purple&layout=compact&hide=css,html) | 
-![AE-0h's stats](https://github-readme-stats.vercel.app/api?username=AE-0h&show_icons=true)
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AE-0h&theme=midnight-purple&layout=compact&hide=css,html) |![AE-0h's stats](https://github-readme-stats.vercel.app/api?username=AE-0h&show_icons=true)
 
 
