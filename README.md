@@ -21,11 +21,3 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![ChakraUI](https://img.shields.io/badge/ChakraUI-6DA5FF?style=for-the-badge&logo=ChakraUI&logoColor=white)
-
-<!--![](./profile-3d-contrib/profile-night-view.svg)-->
-
-|🎯 Most used languages 🏆| 🏆 Github Stats 🔭|
-|----------------------------------|----------------------------|
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AE-0h&theme=midnight-purple&layout=compact&hide=css,html) |![AE-0h's stats](https://github-readme-stats.vercel.app/api?username=AE-0h&theme=midnight&show_icons=true)
-
-
