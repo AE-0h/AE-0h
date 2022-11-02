@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<div align="center">
+<container align="center">
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Typescript](https://img.shields.io/badge/TypeScript-3870A0?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,4 +22,4 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![ChakraUI](https://img.shields.io/badge/ChakraUI-6DA5FF?style=for-the-badge&logo=ChakraUI&logoColor=white)
-  </div>
+  </container>
