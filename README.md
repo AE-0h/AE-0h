@@ -1,6 +1,5 @@
 <div align="center">
-	<img src='gitartwork.svg' />
-	<h1>Hi! I'm <a href="https://twitter.com/Byzan_Solutions">AE_0h</a> 🦑 </h1>
+	<h1>Hi! I'm <a href="https://twitter.com/Byzan_Solutions">AE_0h</a> 
 	<br />
 <!-- 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=flat&logo=arch-linux" /></a>
