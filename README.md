@@ -7,7 +7,6 @@
 <!-- 	<a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
 	<br />
 	<a href="https://github.com/AE-0h"><img src="https://img.shields.io/github/stars/0xhiro?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a> -->
-	<br />
-	<br />
+
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AE-0h&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
 </div>
